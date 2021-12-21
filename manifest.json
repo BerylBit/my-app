@@ -1,0 +1,8 @@
+{
+  "short_name": "Fantom (FTM)",
+  "name": "Fantom (FTM) Blockchain Explorer",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

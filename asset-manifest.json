@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BerylBit/my-app/static/css/main.2c0a285e.css",
+    "main.js": "/BerylBit/my-app/static/js/main.293e8ae1.js",
+    "static/js/787.bcd30a2f.chunk.js": "/BerylBit/my-app/static/js/787.bcd30a2f.chunk.js",
+    "index.html": "/BerylBit/my-app/index.html",
+    "main.2c0a285e.css.map": "/BerylBit/my-app/static/css/main.2c0a285e.css.map",
+    "main.293e8ae1.js.map": "/BerylBit/my-app/static/js/main.293e8ae1.js.map",
+    "787.bcd30a2f.chunk.js.map": "/BerylBit/my-app/static/js/787.bcd30a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0a285e.css",
+    "static/js/main.293e8ae1.js"
+  ]
+}
